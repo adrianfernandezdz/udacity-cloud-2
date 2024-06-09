@@ -1,3 +1,5 @@
+(Sorry for adding this format but I had all the info into a PDF and wasnt allowed to update it :( )
+
 Proyect running on local:
 
 2 endpoints have been created: 
